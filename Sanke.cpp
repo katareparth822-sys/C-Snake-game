@@ -129,6 +129,6 @@ int main() {
         Logic();
         Sleep(80);
     }
-    cout << "\nGame Over! Final Score: " << score << "\n";
+    cout << "\nGame  Over! Final Score: " << score << "\n";
     return 0;
 }
